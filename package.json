@@ -2,7 +2,7 @@
   "name": "express-ts-jwt-mongo-api",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "dist/server.js",
   "scripts": {
     "dev": "nodemon",
     "start" : "node dist/server.js",
