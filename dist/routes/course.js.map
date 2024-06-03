@@ -1,0 +1,1 @@
+{"version":3,"file":"course.js","sourceRoot":"","sources":["../../src/routes/course.ts"],"names":[],"mappings":";;AAAA,kDAAwE;AACxE,8CAAsD;AAGtD,kBAAe,CAAC,MAAc,EAAE,EAAE;IAChC,sBAAsB;IACtB,MAAM,CAAC,IAAI,CAAC,UAAU,EAAE,yBAAgB,CAAC,CAAC;IAC1C,kBAAkB;IAClB,MAAM,CAAC,GAAG,CAAC,UAAU,EAAE,sBAAe,EAAE,sBAAa,CAAC,CAAC;AACzD,CAAC,CAAC"}

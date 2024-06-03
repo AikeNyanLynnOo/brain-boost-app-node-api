@@ -1,0 +1,1 @@
+{"version":3,"file":"Model.js","sourceRoot":"","sources":["../../../src/db/Token/Model.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,qDAA4C;AAE5C,MAAM,WAAW,GAAG,IAAI,iBAAM,CAAC;IAC7B,YAAY,EAAE;QACZ,IAAI,EAAE,MAAM;KACb;IACD,eAAe;IACf,mCAAmC;IACnC,sBAAsB;IACtB,sBAAsB;IACtB,OAAO;CACR,CAAC,CAAC;AAEU,QAAA,UAAU,GAAG,kBAAQ,CAAC,KAAK,CAAC,OAAO,EAAE,WAAW,CAAC,CAAC"}
