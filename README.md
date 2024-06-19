@@ -36,40 +36,40 @@ npm run start
 
 ### Auth routes
 
-(POST) Register
+`POST` - Register
 ```bash
-   {{base_url}}/auth/register
+{{base_url}}/auth/register
 ```
 
-(POST) Log In
+`POST` - Log In
 ```bash
-   {{base_url}}/auth/login
+{{base_url}}/auth/login
 ```
 
-(POST) Log Out
+`POST` - Log Out
 Authorization : Bear{SPACE}JWT
 ```bash
-   {{base_url}}/auth/logout
+{{base_url}}/auth/logout
 ```
 
-(POST) Refresh Token
+`POST` - Refresh Token
 Authorization : Bear{SPACE}JWT
 ```bash
-   {{base_url}}/auth/token
+{{base_url}}/auth/token
 ```
 
-(GET) Get User Info
+`GET` - Get User Info
 Authorization : Bear{SPACE}JWT
 ```bash
-   {{base_url}}/user
+{{base_url}}/user
 ```
 
 
 ### Course routes
 
-{GET} Get Courses
+`GET` - Get Courses
 ```bash
-   {{base_url}}/courses
+{{base_url}}/courses
 ```
 
 ### Coming routes
